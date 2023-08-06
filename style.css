@@ -8,7 +8,7 @@
 .main {
     width: 100%;
     min-height: 100vh;
-    background: URL(/blue_back.jpg) no-repeat;
+    background: URL(./blue_back.jpg) no-repeat;
     color: #fff;
     position: relative;
 }
